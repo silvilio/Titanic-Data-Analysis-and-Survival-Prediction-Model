@@ -217,7 +217,6 @@ websocket-client==1.4.2
 Werkzeug==2.1.2
 wget==3.2
 widgetsnbextension==4.0.4
-windows-curses==2.3.1
 wordcloud==1.8.2.2
 wrapt==1.15.0rc1
 xgboost==1.7.3
