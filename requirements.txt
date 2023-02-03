@@ -15,7 +15,6 @@ bokeh==3.0.3
 branca==0.6.0
 cachetools==5.2.0
 category-encoders==2.6.0
-cargo
 certifi==2022.9.24
 cffi==1.15.1
 chardet==5.1.0
@@ -146,7 +145,6 @@ pycparser==2.21
 pydantic==1.10.4
 pydeck==0.8.0
 pygame==2.1.2
-Pygments==2.13.0
 Pympler==1.0.1
 pyod==1.0.7
 pyparsing==3.0.9
