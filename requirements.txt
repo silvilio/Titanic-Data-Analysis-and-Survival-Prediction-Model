@@ -15,7 +15,7 @@ bokeh==3.0.3
 branca==0.6.0
 cachetools==5.2.0
 category-encoders==2.6.0
-cargo==1.67.0
+cargo
 certifi==2022.9.24
 cffi==1.15.1
 chardet==5.1.0
