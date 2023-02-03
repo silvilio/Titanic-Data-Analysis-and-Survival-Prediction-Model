@@ -63,7 +63,7 @@ st.markdown(
 
 
 # Leemos el Dataset
-df = pd.read_csv(r"C:\Users\sjfer\Silvilio python upgrade hub\Modulo 1\13-Trabajo del Módulo I\Silvilio Fernández Módulo I\titanic.csv")
+df = pd.read_csv("titanic.csv")
 
 
 
