@@ -58,10 +58,8 @@ The difference of doing it through here is being able to correctly display the i
 ### [DOWNLOAD DATASET](https://github.com/silvilio/titanic/blob/main/titanic.csv)
 Here you can download the dataset used for the project.
 
- 
- 
- 
- 
+---
+---
 
 # Spanish
 
