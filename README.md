@@ -3,6 +3,17 @@
 ![](https://github.com/silvilio/titanic/blob/main/Im%C3%A1genes/t%C3%ADtulo_2.png)
 
 
+<p align="center">
+  <a href="#english">
+    <img src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/gb.svg" alt="English" width="32" height="32">
+  </a>
+  <a href="#spanish">
+    <img src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/es.svg" alt="Spanish" width="32" height="32">
+  </a>
+</p>
+
+## English
+
 
 
 
