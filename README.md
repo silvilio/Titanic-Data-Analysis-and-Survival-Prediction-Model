@@ -1,6 +1,10 @@
 # Exploratory Analysis of the Titanic Passenger Dataset and Survival Prediction Model
 
 ![](https://github.com/silvilio/titanic/blob/main/Im%C3%A1genes/t%C3%ADtulo_2.png)
+
+<button onclick="document.getElementById('content').innerHTML = 'English Content'">English</button>
+<button onclick="document.getElementById('content').innerHTML = 'Contenido en Español'">Español</button>
+
 El objetivo principal de este análisis será responder a diversas preguntas relacionadas con la supervivencia de los pasajeros, tales como: ¿qué factores influenciaron en la tasa de supervivencia de los pasajeros? ¿Cuántos pasajeros había según sus clases? ¿Hubo diferencias significativas entre la tasa de supervivencia de los hombres y las mujeres?
 
 A partir de los resultados obtenidos, realizaremos una predicción de la supervivencia de los pasajeros basada en los datos que disponemos. Utilizaremos un modelo de regresión logística para estimar las probabilidades de supervivencia y clasificar a los pasajeros en dos grupos: sobrevivientes y no sobrevivientes.
