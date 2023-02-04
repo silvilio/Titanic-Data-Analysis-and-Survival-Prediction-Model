@@ -3,39 +3,6 @@
 ![](https://github.com/silvilio/titanic/blob/main/Im%C3%A1genes/t%C3%ADtulo_2.png)
 
 
-<style>
-  .flag-icon {
-    width: 16px;
-    height: 16px;
-    vertical-align: middle;
-    margin-right: 8px;
-  }
-
-  .language-button {
-    background-color: white;
-    color: black;
-    border: 1px solid gray;
-    border-radius: 4px;
-    padding: 4px 8px;
-    cursor: pointer;
-  }
-
-  .language-button:hover {
-    background-color: lightgray;
-  }
-</style>
-
-<button class="language-button">
-  <img class="flag-icon" src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/gb.svg" alt="UK flag">
-  English
-</button>
-
-<button class="language-button">
-  <img class="flag-icon" src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/es.svg" alt="Spanish flag">
-  Español
-</button>
-
-
 
 
 
