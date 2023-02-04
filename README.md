@@ -7,6 +7,8 @@
 
 
 
+[PROJECT IN GOOGLE COLAB](https://colab.research.google.com/drive/1OCJjwP0mILITYCQ_h43MJkIQmHwjB3NC?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/drive/1OCJjwP0mILITYCQ_h43MJkIQmHwjB3NC?usp=sharing)
 
 ### WEBAPP CREATION : 
 
