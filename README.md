@@ -1,6 +1,4 @@
-# Exploratory Analysis of the Titanic Passenger Dataset and Survival Prediction Model
-
-![](https://github.com/silvilio/titanic/blob/main/Im%C3%A1genes/t%C3%ADtulo_2.png)
+![](https://github.com/silvilio/titanic/blob/main/Im%C3%A1genes/titanic.png)
 
 
 <p align="center">
