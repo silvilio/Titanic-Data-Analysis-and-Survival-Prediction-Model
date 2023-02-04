@@ -12,7 +12,7 @@
   </a>
 </p>
 
-## English  
+# English  
 
 
 The main objective of this analysis will be to answer various questions related to passenger survival, such as: What factors influence the passenger survival rate? How many passengers were there according to their classes? Were there significant differences between the survival rate of men and women?
@@ -58,10 +58,12 @@ The difference of doing it through here is being able to correctly display the i
 ### [DOWNLOAD DATASET](https://github.com/silvilio/titanic/blob/main/titanic.csv)
 Here you can download the dataset used for the project.
 
+ 
+ 
+ 
+ 
 
-
-
-## Spanish
+# Spanish
 
 El objetivo principal de este análisis será responder a diversas preguntas relacionadas con la supervivencia de los pasajeros, tales como: ¿qué factores influenciaron en la tasa de supervivencia de los pasajeros? ¿Cuántos pasajeros había según sus clases? ¿Hubo diferencias significativas entre la tasa de supervivencia de los hombres y las mujeres?
 
@@ -74,8 +76,8 @@ Esperamos que los resultados de este análisis ayuden a entender mejor los facto
 ## WEB APP: 
 En los siguientes enlaces puedes echar un vistazo a la app creada para este proyecto en Streamlit. 
 
-### [MIRA LA APP](https://silvilio-titanic-silvilio-titanic-app-251nwk.streamlit.app/)
-### [MIRA EL CÓDIGO DE LA APP](https://github.com/silvilio/titanic/blob/main/silvilio_titanic_app.py)
+### [VER LA APP](https://silvilio-titanic-silvilio-titanic-app-251nwk.streamlit.app/)
+### [VER EL CÓDIGO DE LA APP](https://github.com/silvilio/titanic/blob/main/silvilio_titanic_app.py)
 
 Aquí puedes ver un adelanto de lo que te puedes encontrar dentro de la app.
 
