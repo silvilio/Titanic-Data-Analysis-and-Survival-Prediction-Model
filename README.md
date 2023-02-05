@@ -22,7 +22,7 @@ We hope that the results of this analysis will help to better understand the fac
 
 --- 
 
-## WEB APP: 
+## WEB APP STREAMLIT: 
 In the following links you can take a look at the app created for this project in Streamlit.
 
 ### [SEE THE APP](https://silvilio-titanic-silvilio-titanic-app-251nwk.streamlit.app/)
@@ -69,7 +69,7 @@ Esperamos que los resultados de este análisis ayuden a entender mejor los facto
 
 --- 
 
-## WEB APP: 
+## WEB APP STREAMLIT: 
 En los siguientes enlaces puedes echar un vistazo a la app creada para este proyecto en Streamlit. 
 
 ### [VER LA APP](https://silvilio-titanic-silvilio-titanic-app-251nwk.streamlit.app/)
